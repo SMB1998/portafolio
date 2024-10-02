@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola",
-    "description": "👋 Soy Santiago, un desarrollador de software con experiencia en tecnologías tanto de frontend como de backend, enfocado en el desarrollo web, servicios en la nube y despliegue. Disfruto trabajar en entornos colaborativos, me gusta trabajar en equipo y siempre busco oportunidades para aprender y crecer. Tengo amplia experiencia desarrollando aplicaciones escalables y eficientes.",
+    "description": "👋 Soy Santiago, un desarrollador de software con habilidades tanto en tecnologías frontend como backend, enfocado en el desarrollo web, servicios en la nube y despliegue. Me desenvuelvo bien en entornos colaborativos, disfruto trabajar en equipo y siempre busco oportunidades para aprender y crecer. Tengo amplia experiencia en el desarrollo de aplicaciones escalables y eficientes.",
     "section_name": {
       "about": "Sobre mí",
       "projects": "Proyectos Personales",
@@ -36,7 +36,7 @@
     {
       "title": "SmileDC Miami",
       "startDate": "2023",
-      "description": "Página de aterrizaje para una clínica dental con sede en Miami. Utilicé el módulo I18N para traducciones ES/EN.",
+      "description": "Página de aterrizaje para una clínica dental con sede en Miami. Aquí utilicé el módulo I18N para traducciones ES/EN.",
       "images": [
         "images/smile1.png",
         "images/smile2.png",
@@ -83,8 +83,13 @@
     {
       "title": "GadgetGalaxy",
       "startDate": "2024",
-      "description": "Proyecto de tesis enfocado en mejorar la logística del mercado de componentes electrónicos en Colombia, con énfasis en semiconductores.",
-      "images": [],
+      "description": "Un proyecto de tesis enfocado en mejorar la logística del mercado de componentes electrónicos en Colombia, con énfasis en semiconductores.",
+      "images": [
+        "images/galaxy1.png",
+        "images/galaxy2.png",
+        "images/galaxy3.png",
+        "images/galaxy4.png"
+      ],
       "url": "",
       "technologies": [
         {
@@ -98,10 +103,10 @@
       ]
     },
     {
-      "title": "Tutorial de Websockets",
+      "title": "Chat en tiempo real - Tutorial de Websockets",
       "startDate": "2024",
-      "description": "Un tutorial que demuestra cómo implementar Websockets en Python y Django en el backend, y React en el frontend, con funcionalidad de chat en tiempo real.",
-      "images": [],
+      "description": "Implementación de Websockets en Python y Django en el backend y React en el frontend, con funcionalidad de chat en tiempo real.",
+      "images": ["images/chat1.png", "images/chat2.png", "images/chat3.png"],
       "url": "",
       "technologies": [
         {
@@ -123,7 +128,7 @@
     {
       "company": "AuditBrain",
       "title": "Desarrollador Frontend",
-      "years": "Abril 2023 – Actual",
+      "years": "Abril 2023 – Actualidad",
       "mainTech": ["Next.js", "React"],
       "technologies": [
         "Angular",
@@ -137,14 +142,14 @@
     {
       "company": "Telesign",
       "title": "Ingeniero de Software",
-      "years": "Mar 2022 – Oct 2022",
+      "years": "Marzo 2022 – Octubre 2022",
       "mainTech": ["Python", "React", "FastAPI", "Django"],
       "technologies": ["React", "Sass", "Docker", "Jinja2", "Kibana"]
     },
     {
       "company": "Endava",
       "title": "Técnico Senior de Desarrollo",
-      "years": "Nov 2021 – Feb 2023",
+      "years": "Noviembre 2021 – Febrero 2023",
       "mainTech": ["Go", "React", "Python"],
       "technologies": [
         "Selenium",
@@ -157,14 +162,14 @@
     },
     {
       "company": "Kinitech",
-      "title": "Ingeniero de Investigación y Desarrollo",
-      "years": "Ene 2021 – Oct 2021",
+      "title": "Ingeniero de Desarrollo e Investigación",
+      "years": "Enero 2021 – Octubre 2021",
       "mainTech": ["Python", "Flask", "Jinja2"],
       "technologies": ["Bootstrap", "ClearDB", "Heroku", "Sendgrid", "Selenium"]
     },
     {
-      "company": "Humboldt",
-      "title": "Practicante de Machine Learning",
+      "company": "INstituto Alexander Von Humboldt",
+      "title": "Practicante en Aprendizaje Automático",
       "years": "2021",
       "mainTech": ["Python"],
       "technologies": ["Django", "Postgres"]
@@ -175,7 +180,7 @@
       "institution": "Pontificia Universidad Javeriana",
       "degree": "Pregrado",
       "field": "Ingeniería Electrónica",
-      "years": "2015 - Actual"
+      "years": "2015 - Actualidad"
     },
     {
       "institution": "Universidad Tecnológica de Tula Tepeji",
