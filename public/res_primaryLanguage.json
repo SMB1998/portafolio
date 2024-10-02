@@ -12,7 +12,7 @@
   "projects": [
     {
       "title": "Inges Consultoria",
-      "startDate": "2023",
+      "startDate": "2022",
       "description": "Landing page for a consulting company.",
       "images": [
         "images/inges1.png",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Kinitech",
-      "startDate": "2023",
+      "startDate": "2024",
       "description": "Corporate landing page for Kinitech, a technology company.",
       "images": [
         "images/kn1.png",
@@ -81,17 +81,17 @@
       ]
     },
     {
-      "title": "GadgetGalaxy",
-      "startDate": "2024",
-      "description": "A thesis project aimed at improving the logistics for the electronic components market in Colombia, with a focus on semiconductors.",
-      "images": [
-        "images/galaxy1.png",
-        "images/galaxy2.png",
-        "images/galaxy3.png",
-        "images/galaxy4.png"
-      ],
+      "title": "Real time chat - Websockets Tutorial",
+      "startDate": "In Progress",
+      "description": "Implementation of Websockets in Python and Django on the backend and React on the frontend, featuring real-time chat functionality.",
+      "images": ["images/chat1.png", "images/chat2.png", "images/chat3.png"],
+
       "url": "",
       "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
         {
           "class": "devicon-django-plain",
           "name": "Django"
@@ -103,17 +103,17 @@
       ]
     },
     {
-      "title": "Real time chat - Websockets Tutorial",
-      "startDate": "2024",
-      "description": "Implementation of Websockets in Python and Django on the backend and React on the frontend, featuring real-time chat functionality.",
-      "images": ["images/chat1.png", "images/chat2.png", "images/chat3.png"],
-
+      "title": "GadgetGalaxy",
+      "startDate": "In Progress",
+      "description": "A thesis project aimed at improving the logistics for the electronic components market in Colombia, with a focus on semiconductors.",
+      "images": [
+        "images/galaxy1.png",
+        "images/galaxy2.png",
+        "images/galaxy3.png",
+        "images/galaxy4.png"
+      ],
       "url": "",
       "technologies": [
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
         {
           "class": "devicon-django-plain",
           "name": "Django"
@@ -170,7 +170,7 @@
       "technologies": ["Bootstrap", "ClearDB", "Heroku", "Sendgrid", "Selenium"]
     },
     {
-      "company": "Humboldt",
+      "company": "Alexander Von Humboldt Research Institute",
       "title": "Machine Learning Intern",
       "years": "2021",
       "mainTech": ["Python"],

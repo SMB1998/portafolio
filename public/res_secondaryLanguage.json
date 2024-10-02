@@ -12,7 +12,7 @@
   "projects": [
     {
       "title": "Inges Consultoría",
-      "startDate": "2023",
+      "startDate": "2022",
       "description": "Página de aterrizaje para una empresa de consultoría.",
       "images": [
         "images/inges1.png",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Kinitech",
-      "startDate": "2023",
+      "startDate": "2024",
       "description": "Página de aterrizaje corporativa para Kinitech, una empresa de tecnología.",
       "images": [
         "images/kn1.png",
@@ -81,17 +81,16 @@
       ]
     },
     {
-      "title": "GadgetGalaxy",
-      "startDate": "2024",
-      "description": "Un proyecto de tesis enfocado en mejorar la logística del mercado de componentes electrónicos en Colombia, con énfasis en semiconductores.",
-      "images": [
-        "images/galaxy1.png",
-        "images/galaxy2.png",
-        "images/galaxy3.png",
-        "images/galaxy4.png"
-      ],
+      "title": "Chat en tiempo real - Tutorial de Websockets",
+      "startDate": "En Proceso",
+      "description": "Implementación de Websockets en Python y Django en el backend y React en el frontend, con funcionalidad de chat en tiempo real.",
+      "images": ["images/chat1.png", "images/chat2.png", "images/chat3.png"],
       "url": "",
       "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
         {
           "class": "devicon-django-plain",
           "name": "Django"
@@ -103,16 +102,17 @@
       ]
     },
     {
-      "title": "Chat en tiempo real - Tutorial de Websockets",
-      "startDate": "2024",
-      "description": "Implementación de Websockets en Python y Django en el backend y React en el frontend, con funcionalidad de chat en tiempo real.",
-      "images": ["images/chat1.png", "images/chat2.png", "images/chat3.png"],
+      "title": "GadgetGalaxy",
+      "startDate": "En Proceso",
+      "description": "Un proyecto de tesis enfocado en mejorar la logística del mercado de componentes electrónicos en Colombia, con énfasis en semiconductores.",
+      "images": [
+        "images/galaxy1.png",
+        "images/galaxy2.png",
+        "images/galaxy3.png",
+        "images/galaxy4.png"
+      ],
       "url": "",
       "technologies": [
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
         {
           "class": "devicon-django-plain",
           "name": "Django"
