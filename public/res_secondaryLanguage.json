@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "description_header": "Hola",
+    "description": "👋 Soy Santiago, un desarrollador de software con experiencia en tecnologías tanto de frontend como de backend, enfocado en el desarrollo web, servicios en la nube y despliegue. Disfruto trabajar en entornos colaborativos, me gusta trabajar en equipo y siempre busco oportunidades para aprender y crecer. Tengo amplia experiencia desarrollando aplicaciones escalables y eficientes.",
+    "section_name": {
+      "about": "Sobre mí",
+      "projects": "Proyectos Personales",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "Inges Consultoría",
+      "startDate": "2023",
+      "description": "Página de aterrizaje para una empresa de consultoría.",
+      "images": [
+        "images/inges1.png",
+        "images/inges2.png",
+        "images/inges3.png",
+        "images/inges4.png",
+        "images/inges5.png"
+      ],
+      "url": "https://www.ingesconsultoria.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "SmileDC Miami",
+      "startDate": "2023",
+      "description": "Página de aterrizaje para una clínica dental con sede en Miami. Utilicé el módulo I18N para traducciones ES/EN.",
+      "images": [
+        "images/smile1.png",
+        "images/smile2.png",
+        "images/smile3.png",
+        "images/smile4.png",
+        "images/smile5.png",
+        "images/smile6.png",
+        "images/smile7.png"
+      ],
+      "url": "https://www.smiledc-miami.com/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Kinitech",
+      "startDate": "2023",
+      "description": "Página de aterrizaje corporativa para Kinitech, una empresa de tecnología.",
+      "images": [
+        "images/kn1.png",
+        "images/kn2.png",
+        "images/kn3.png",
+        "images/kn4.png"
+      ],
+      "url": "https://kinitech.com.co/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "GadgetGalaxy",
+      "startDate": "2024",
+      "description": "Proyecto de tesis enfocado en mejorar la logística del mercado de componentes electrónicos en Colombia, con énfasis en semiconductores.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Tutorial de Websockets",
+      "startDate": "2024",
+      "description": "Un tutorial que demuestra cómo implementar Websockets en Python y Django en el backend, y React en el frontend, con funcionalidad de chat en tiempo real.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "AuditBrain",
+      "title": "Desarrollador Frontend",
+      "years": "Abril 2023 – Actual",
+      "mainTech": ["Next.js", "React"],
+      "technologies": [
+        "Angular",
+        "Redux",
+        "Semantic UI",
+        "Syncfusion",
+        "Plugins de CKEditor",
+        "Webpack"
+      ]
+    },
+    {
+      "company": "Telesign",
+      "title": "Ingeniero de Software",
+      "years": "Mar 2022 – Oct 2022",
+      "mainTech": ["Python", "React", "FastAPI", "Django"],
+      "technologies": ["React", "Sass", "Docker", "Jinja2", "Kibana"]
+    },
+    {
+      "company": "Endava",
+      "title": "Técnico Senior de Desarrollo",
+      "years": "Nov 2021 – Feb 2023",
+      "mainTech": ["Go", "React", "Python"],
+      "technologies": [
+        "Selenium",
+        "AWS Lambda",
+        "AWS API Gateway",
+        "MongoDB",
+        "Microservicios",
+        "Serverless"
+      ]
+    },
+    {
+      "company": "Kinitech",
+      "title": "Ingeniero de Investigación y Desarrollo",
+      "years": "Ene 2021 – Oct 2021",
+      "mainTech": ["Python", "Flask", "Jinja2"],
+      "technologies": ["Bootstrap", "ClearDB", "Heroku", "Sendgrid", "Selenium"]
+    },
+    {
+      "company": "Humboldt",
+      "title": "Practicante de Machine Learning",
+      "years": "2021",
+      "mainTech": ["Python"],
+      "technologies": ["Django", "Postgres"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontificia Universidad Javeriana",
+      "degree": "Pregrado",
+      "field": "Ingeniería Electrónica",
+      "years": "2015 - Actual"
+    },
+    {
+      "institution": "Universidad Tecnológica de Tula Tepeji",
+      "degree": "Pregrado",
+      "field": "Ingeniería Mecatrónica",
+      "years": "2019",
+      "notes": "Beca de intercambio académico"
+    }
+  ],
+  "languages": {
+    "spanish": "Nativo",
+    "english": "B2"
+  },
+  "contact_info": {
+    "location": "Cali, CO",
+    "email": "santiagombdev@gmail.com",
+    "phone": "+57 3006152679"
+  }
+}
